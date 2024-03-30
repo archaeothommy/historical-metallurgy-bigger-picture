@@ -1,0 +1,37 @@
+
+cff-version: 1.2.0
+title: 'Historical Metallurgy: The bigger picture'
+
+message: |
+  ...
+abstract: '...'
+type: software
+authors:
+  - family-names: Rondelez
+    given-names: Paul
+    email: prondelez@yahoo.com
+  - family-names: Rose
+    given-names: Thomas
+    email: thomas.rose@bergbaumuseum.de
+    orcid: https://orcid.org/0000-0002-8186-3566
+version: 0.0.900
+license: CC-BY-SA-4.0
+date-released: '2024-'
+doi: 
+url: "...""
+repository-code: "https://github.com/archaeothommy/historical-metallurgy-bigger-picture"
+contact:
+  - name: Thomas Rose
+    email: thomas.rose@bergbaumuseum.de
+  - name: Paul Rondelez
+    email: prondelez@yahoo.com
+keywords: 
+  - archaeology
+  - archaeological-science
+  - archaeometry
+  - archaeometallurgy
+  - historical-metallurgy
+  - book
+  - copper
+  - iron
+  - smelting

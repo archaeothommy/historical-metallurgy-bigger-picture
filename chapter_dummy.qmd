@@ -1,0 +1,16 @@
+---
+title: Chapter Template
+author: 
+  - name: xxx
+    corresponding: true
+    orcid: 0000-0001-2345-6789
+    email: a@b.c
+  - name: xxx
+    orcid: 0000-0001-2345-6789
+abstract: Abstract of the chapter.
+---
+
+::: {.callout-caution title="In preparation"}
+This chapter is in preparation. You are welcome to contribute!  
+ 
+:::

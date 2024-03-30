@@ -1,0 +1,69 @@
+project:
+  type: book
+
+book:
+  version: 0.0.900
+  title: "Historical Metallurgy: The Bigger Picture"
+  abstract: |
+    ... 
+#  doi: 
+  editor: 
+    - name: Paulk Rondelez
+      orcid: 
+      email: prondelez@yahoo.com
+      affiliations: 
+        - name: ...
+    - name: Thomas Rose
+      orcid: 0000-0002-8186-3566
+      url: https://copper-smelting.com/
+      email: globalid@bergbaumuseum.de
+      affiliations: 
+        - name: Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum
+          department: Forschungsbereich Archäometallurgie
+          city: Bochum
+          country: Germany
+          url: https://www.bergbaumuseum.de/
+
+  reader-mode: true
+  license: CC-BY-SA 4.0
+  language: en
+#  cover-image: cover.png
+  
+  page-footer: 
+    left: 
+      - text: Built with <a href="https://quarto.org/">Quarto</a>.
+    right: 
+      - text: "Legal information"
+        href: about.qmd
+  back-to-top-navigation: true
+  
+#  favicon: assets/favicon.png
+  site-url: https://archaeothommy.github.io/historical-metallurgy-bigger-picture/
+  repo-url: https://github.com/archaeothommy/historical-metallurgy-bigger-picture
+  repo-branch: main
+  repo-actions: [edit, issue]
+#  sharing: [twitter, facebook, linkedin]
+  twitter-card: true
+  open-graph: true
+  
+  chapters:
+    - index.qmd
+    - chapter_dummy.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/archaeological-and-anthropological-sciences
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - theme-light.scss
+    smooth-scroll: true
+    link-external-newwindow: true
+    date: last-modified
+    code-link: true
+    code-fold: true
+
+execute: 
+  freeze: auto

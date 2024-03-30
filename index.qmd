@@ -1,0 +1,48 @@
+## Welcome {.unnumbered}
+This interactive book is ...
+
+This book is still work in progress with additional chapters being added over time. We are welcoming any kind of contribution and feedback from our readers and the experts in the field. If you want to contribute, please [contact the editor](mailto:prondelez@yahoo.com) or fork the [associated Github repository](https://github.com/archaeothommy/historical-metallurgy-bigger-picture) and create a push request with your materials. 
+
+## The team
+
+### Editors
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+<!--![](assets/TRose.png) -->
+:::
+
+::: {#column-text}
+**Paul Rondelez** (...) <br> Paul is ... 
+::: 
+
+:::
+
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/TRose.png)
+:::
+
+::: {#column-text}
+**Thomas Rose** (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany) <br> Thomas is working in the DFG-funded project “GlobaLID – Building an interface between geochemistry and archaeometry to create a new research infrastructure with a global perspective”. He gained expertise in ancient copper metallurgy with focus on the Chalcolithic Southern Levant and stable metal isotope systems. In addition, he is maintainer of the R package [ChronochRt](https://cran.r-project.org/package=chronochrt). He is executive board member of the [Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V](https://www.archaeometrie.de/) and council member of the [Historical Metallurgy Society](https://historicalmetallurgy.org). More info at <https://copper-smelting.com>.
+::: 
+
+:::
+
+### Authors 
+<!--
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](cover.png)
+:::
+
+::: {#column-text}
+**Name** (Affiliation)
+::: 
+
+:::
+-->
